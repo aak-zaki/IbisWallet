@@ -93,7 +93,7 @@ Membutuhkan Android Studio dengan JDK 17.
 
 ## Bug Bounty (Program Imbalan Penemuan Bug)
 
-> [!PENTING]
+> [!IMPORTANT]
 > **Program bug bounty saat ini ditangguhkan karena keterbatasan dana.** Laporan kerentanan tetap diterima dan akan mendapatkan tanggapan, tetapi tidak ada imbalan uang yang akan dibayarkan sampai program tersebut kembali dibuka.
 
 Pengembang menawarkan imbalan sebesar $1.000 dalam BTC untuk setiap kerentanan kritis pada Ibis Wallet yang dapat menyebabkan hilangnya dana pengguna tanpa izin.
