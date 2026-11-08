@@ -9,7 +9,7 @@ Dirancang untuk pengguna berpengalaman - tanpa panduan berlebihan atau fitur yan
 
 [<img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get APK from GitHub" height="80">](https://github.com/aeonBTC/ibiswallet/releases)
 
-**Bahasa yang tersedia:** Inggris · [Spanyol](localized-readme/README.es.md) · [Rusia](localized-readme/README.ru.md) · [Portugis (Brasil)](localized-readme/README.pt-BR.md) · [Perancis](localized-readme/README.fr.md) · [Jerman](localized-readme/README.de.md) · [Jepang](localized-readme/README.ja.md) · [Mandarin](localized-readme/README.zh-CN.md)
+**Bahasa yang tersedia:** Inggris · [Spanyol](localized-readme/README.es.md) · [Rusia](localized-readme/README.ru.md) · [Portugis (Brasil)](localized-readme/README.pt-BR.md) · [Perancis](localized-readme/README.fr.md) · [Jerman](localized-readme/README.de.md) · [Jepang](localized-readme/README.ja.md) · [Mandarin](localized-readme/README.zh-CN.md) · [Indonesian](localized-readme/README.id.md)
 
 ## Fitur Utama
 
