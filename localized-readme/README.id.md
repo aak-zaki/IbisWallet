@@ -1,4 +1,3 @@
-README.id.md
 # Ibis Wallet
 
 Ibis adalah dompet Bitcoin modular dengan sistem self-custodial (pengguna memegang kendali penuh atas aset dan kunci privatnya), yang berfokus pada desain intuitif, privasi, dan kemampuan penyesuaian.
@@ -72,7 +71,7 @@ Dirancang untuk pengguna berpengalaman - tanpa panduan berlebihan atau fitur yan
 - **Bitcoin URI Handling** - Mendaftarkan Ibis sebagai aplikasi penangan tautan `bitcoin:`
 
 ### Lokalisasi
-- **Bahasa** - Inggris, Spanyol, Rusia, Portugis (Brasil), Prancis, Jerman, Jepang, dan Mandarin Sederhana
+- **Bahasa** - Inggris, Spanyol, Rusia, Portugis (Brasil), Prancis, Jerman, Jepang, Mandarin Sederhana dan Indonesian
 - **Typeface** - Menyediakan beberapa pilihan pengaturan jenis huruf
 
 ### Backup & Restore
